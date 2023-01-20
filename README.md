@@ -28,3 +28,6 @@ This repository contains 20 simple and progressively complex projects created fo
 ## Requirements
 - Swift 5.0 or higher
 - Xcode 12 or higher
+
+## Notas
+- Each project addresses a different NLP technique or concept, starting with the most basic and moving to the most complex. The projects are organized in a logical order, allowing me to build my knowledge over time.
