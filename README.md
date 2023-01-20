@@ -10,7 +10,7 @@ This repository contains 20 simple and progressively complex projects created fo
 4. Basic_text_summarization
 5. Simple_Automated_Response_Generator
 6. Advanced_sentiment_analyser
-7. Speech_recognition
+7. Speech_analysis
 8. Basic_machine_translation
 9. Topic_Analysis
 10. Automated_text_generation
