@@ -1,60 +1,40 @@
-# Pods
-Pods/
-
 # Xcode
+#
 *.pbxuser
-!default.pbxuser
 *.mode1v3
-!default.mode1v3
 *.mode2v3
-!default.mode2v3
 *.perspectivev3
-!default.perspectivev3
-xcuserdata/
+xcuserdata
+
+# Build artifacts
+#
+build/
+DerivedData/
 
 # Swift Package Manager
+#
 .build/
 
-# Xcode
-*.xcworkspace
-
-# Carthage
-Carthage/Build/
-
-# fastlane
-fastlane/report.xml
-fastlane/Preview.html
-fastlane/screenshots
-fastlane/test_output
-
-# Code Signing
-*.pbxproj/
-*.xcodeproj/
-
-# Cocoapods
-Podfile.lock
+# CocoaPods
+#
 Pods/
 
-# Xcode
-*.xcworkspace
-
 # Carthage
+#
 Carthage/Build/
 
 # fastlane
+#
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 
-# Code Signing
-*.pbxproj/
-*.xcodeproj/
-
-# macOS
-.DS_Store
-
-# iOS
-*.ipa
-*.dSYM.zip
-*.dSYM
+# Other
+#
+*.DS_Store
+*.swp
+*.swo
+*.log
+*.xcodeproj
+*.xcworkspace
