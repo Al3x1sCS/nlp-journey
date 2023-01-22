@@ -127,6 +127,7 @@ This repository contains a list of projects that cover various concepts of natur
 ## Requirements
 - Swift 5.0 or higher
 - Xcode 12 or higher
+- Natural Language Framework
 
 ## Notes
 - This repository is public and everyone is welcome to contribute with comments, suggestions and improvements.
