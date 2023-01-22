@@ -16,7 +16,6 @@ This repository contains a list of projects that cover various concepts of natur
 - Text classification
 - Entity extraction
 - Semantic analysis
-- Speech recognition
 - Machine translation
 - Multilingual sentiment analysis
 
