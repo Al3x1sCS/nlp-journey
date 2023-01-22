@@ -103,13 +103,6 @@ This repository contains a list of projects that cover various concepts of natur
 5. Semantic analysis of news articles
 6. Semantic analysis of multiple languages
 
-## Speech recognition (on standby until I check if I will really study this topic)
-1. Basic speech recognition
-2. Advanced speech recognition
-3. Speech recognition of different languages
-4. Speech recognition of different accents
-5. Speech recognition in noisy environments
-
 ## Machine translation
 1. Basic machine translation
 2. Advanced machine translation
