@@ -126,3 +126,4 @@ This repository contains a list of projects that cover various concepts of natur
 - Each project addresses a different NLP technique or concept, starting with the most basic and moving to the most complex.
 - The projects are organized in a logical order, allowing me to build my knowledge over time.
 - This repository will be modified several times until I find all the concepts I have to study to learn NLP so expect drastic changes, especially in this first moment where I'm studying the basics of NLP.
+
